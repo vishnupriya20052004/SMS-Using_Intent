@@ -190,7 +190,7 @@ private void sendSMS(){
 }
 ```
 # OUTPUT:
-[Screenshot 2023-09-12 103600](https://user-images.githubusercontent.com/127651217/267216084-c2da8e21-240a-49bc-8857-89e9442dca00.png)
+
 
 ![image](https://github.com/vishnupriya20052004/SMS-Using_Intent/assets/133640291/3519735c-c421-4569-9d20-2630a712276a)
 
